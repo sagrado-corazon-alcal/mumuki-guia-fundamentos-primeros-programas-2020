@@ -1,6 +1,4 @@
-Un último esfuercito: 
-
-> Usando `Sacar`, creá un programa que elimine todas las bolitas de este tablero:
+> Un último esfuercito: usando `Sacar`, creá un programa que elimine todas las bolitas de este tablero:
 
 <gs-board>
   GBB/1.0
