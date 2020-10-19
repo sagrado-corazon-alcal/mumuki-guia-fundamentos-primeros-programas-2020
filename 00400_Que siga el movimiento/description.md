@@ -1,4 +1,4 @@
-Entendamos qué es lo que acabamos de hacer: ¡escribir un programa!
+Entendamos qué es lo que acabamos de hacer: ¡crear un programa!
 
 Todo programa tiene exactamente un `program`: una sección del código que declara los comandos (acciones) que queremos que la máquina realice sobre el tablero **inicial**. Al **ejecutar** un programa obtendremos un tablero **final**.
 
