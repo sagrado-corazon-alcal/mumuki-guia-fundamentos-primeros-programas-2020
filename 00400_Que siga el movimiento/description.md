@@ -37,7 +37,7 @@ program {
 ¡Te toca a vos!
 
 
-> Escribí un programa que en un tablero de 2x4 con el cabezal en el origen (la celda de abajo a la izquierda), mueva el cabezal tres veces hacia el norte:
+> Creá un programa que en un tablero de 2x4 con el cabezal en el origen (la celda de abajo a la izquierda), mueva el cabezal tres veces hacia el norte:
 >
 <table class= "table" style="width:100%">
   <thead>
