@@ -5,4 +5,4 @@ rules:
     error_contains: El constructor "Noreste" no está definido
   then: 'Para Gobstones `Noreste` no es una dirección. Para moverte hacia allí, vas
     a tener que hacer varios movimientos usando las direcciones que ya vimos: `Norte`,
-    `Sur`, `Este` y `Oeste`'
+    `Sur`, `Oeste` y/o `Este`'
