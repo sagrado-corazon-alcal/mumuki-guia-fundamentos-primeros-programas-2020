@@ -20,4 +20,4 @@ Por ejemplo, el siguiente es un tablero de 5x2, con el cabezal en la segunda fil
 
 Vamos a ver otro ejemplo? 
 
-> Presioná Enviar y generaremos un tablero 3x3 con el cabezal en la segunda columna y tercera fila.
+> Presioná Continuar y generaremos un tablero 3x3 con el cabezal en la segunda columna y tercera fila.
