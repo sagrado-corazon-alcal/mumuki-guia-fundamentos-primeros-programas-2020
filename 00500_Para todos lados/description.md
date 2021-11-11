@@ -2,7 +2,7 @@ Como te imaginarás, el cabezal no sólo se puede mover hacia el Norte, y un pro
 
 > Creá un programa que mueva el cabezal dos posiciones hacia el `Este` y una hacia el `Sur`, produciendo el siguiente efecto:
 >
-<table class= "table" style="width:100%">
+<table class= "table table-borderless" style="width:100%">
   <thead>
   <tr>
     <th style="text-align: center">Inicial</th>
