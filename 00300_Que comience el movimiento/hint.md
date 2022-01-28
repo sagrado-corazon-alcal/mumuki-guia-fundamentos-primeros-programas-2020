@@ -6,4 +6,4 @@ program {
 }
 ```
 
-y pegarlo en el editor para ver que sucede.
+y pegarlo en el editor para descubrir que sucede.
