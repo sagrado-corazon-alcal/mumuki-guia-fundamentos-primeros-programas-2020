@@ -25,7 +25,7 @@ program {
 }
 ```
 
-> ¡Probá este programa! Escribí el código en el editor, envialo y verás lo que pasa al ejecutarlo sobre este tablero:
+> ¡Probá este programa! Escribí el código en el editor, envialo y sabrás lo que pasa al ejecutarlo sobre este tablero:
 
 <gs-board>
   GBB/1.0
