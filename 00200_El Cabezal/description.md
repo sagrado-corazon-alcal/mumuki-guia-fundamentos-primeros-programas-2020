@@ -18,6 +18,6 @@ Por ejemplo, el siguiente es un tablero de 5x2, con el cabezal en la segunda fil
 
 ¡Algo importante! Contamos las filas hacia arriba, y las columnas hacia la derecha. La primera **fila** es la de **abajo** de todo, y la primera **columna** es la de la **izquierda**.
 
-Vamos a ver otro ejemplo? 
+¿Probamos otro ejemplo? 
 
-> Presioná Continuar y generaremos un tablero 3x3 con el cabezal en la segunda columna y tercera fila.
+> Presioná Continuar y generaremos un tablero de 3x3 con el cabezal en la segunda columna y la tercera fila.
