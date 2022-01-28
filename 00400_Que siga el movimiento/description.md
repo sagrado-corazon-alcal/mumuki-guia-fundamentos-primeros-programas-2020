@@ -8,7 +8,7 @@ La sintaxis de un `program` es bastante simple:
 1. a continuación, los comandos: uno por línea
 1. y finalmente, una última llave que cierra la que abrimos anteriormente `}`
 
-Vamos a ver algunos ejemplos de `program`s:
+Vamos a revisar algunos ejemplos de `program`s:
 
 * uno que no hace nada
 
